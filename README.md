@@ -1,5 +1,5 @@
 ## Hi there, I'm Chelsea Yang👋 
-## Actively seeking opportunities to start my career.
+## Actively seeking opportunities to continue my career.
 
 - 🌱 I’m currently learning C# and .NET to prepare for job opportunities in the upcoming new year.
   
