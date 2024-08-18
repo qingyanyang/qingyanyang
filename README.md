@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Chelsea 👋 
+## I am a new developer, always seeking opportunities to start my career.
+
+- 🌱 I’m currently learning C# and .NET to prepare for job opportunities in the upcoming new year.
+- 🔭 I’m also actively looking for opportunities to apply my existing knowledge and experience.
+-  My primary tech stack includes:
+-  * HTML
+   * CSS
+   * JavaScript
+   * React
+   * Flutter
 
 <!--
 **qingyanyang/qingyanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
