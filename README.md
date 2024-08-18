@@ -5,7 +5,7 @@
   
 - 🔭 I’m also actively looking for opportunities to apply my existing knowledge and experience.
   
--  My primary tech stack includes:
+## My primary tech stack includes:
    * HTML
    * CSS
    * JavaScript
