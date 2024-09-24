@@ -7,7 +7,7 @@
 ## My primary tech stack includes:
    * HTML
    * CSS
-   * JavaScript
+   * JavaScript / TypeScript
    * React
    * .NET / ASP.NET Web API / C#
    * Flutter
