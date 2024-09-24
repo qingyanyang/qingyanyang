@@ -10,7 +10,7 @@
    * CSS
    * JavaScript
    * React
-   * .NET/ ASP.NET Web API / C#
+   * .NET / ASP.NET Web API / C#
    * Flutter
 
 <!--
