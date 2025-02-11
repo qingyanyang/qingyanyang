@@ -1,15 +1,13 @@
 ## Hi there, I'm Chelsea Yang👋 
-
-- 🌱 I’m currently learning C# and .NET to prepare for job opportunities in the upcoming new year.
   
-- 🔭 I’m also actively looking for opportunities to apply my existing knowledge and experience.
+- 🔭 I’m actively seeking a **junior web developer role** where I can apply my skills, gain hands-on experience, and continue growing as a developer.
   
 ## My primary tech stack includes:
    * HTML
    * CSS
    * JavaScript / TypeScript
    * React
-   * .NET / ASP.NET Web API / C#
+   * .NET / ASP.NET Core Web API
    * Flutter
 
 <!--
