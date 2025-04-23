@@ -1,7 +1,5 @@
 ## Hi there, I'm Chelsea Yang👋 
   
-- 🔭 I’m actively seeking a **Junior Web Developer** role where I can apply my skills, gain hands-on experience, and continue growing as a developer.
-  
 ## My primary tech stack includes:
    * HTML
    * CSS
