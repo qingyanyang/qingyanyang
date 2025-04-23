@@ -1,9 +1,6 @@
 ## Hi there, I'm Chelsea Yang👋 
   
 ## My primary tech stack includes:
-   * HTML
-   * CSS
-   * JavaScript / TypeScript
    * React
    * .NET / ASP.NET Core Web API
    * Flutter
