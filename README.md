@@ -1,4 +1,4 @@
-## Hi there, I'm Qingyan Yang👋 
+## Hi there, I'm Qingyan (Chelsea) Yang👋 
   
 ## My primary tech stack includes:
    * React
