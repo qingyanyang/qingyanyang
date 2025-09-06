@@ -2,7 +2,7 @@
   
 ## My primary tech stack includes:
    * React
-   * .NET
+   * ASP.NET Core Web API
    * Flutter
 
 <!--
