@@ -4,7 +4,8 @@
    * React
    * ASP.NET Core Web API
 
-## I like what I learnt in uni but couldn't find a relavant job HAHAHAHAHA
+
+~ I like what I learnt in uni but couldn't find a relavant job HAHAHAHAHA ~
 
 <!--
 **qingyanyang/qingyanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
