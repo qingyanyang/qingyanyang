@@ -2,7 +2,8 @@
   
 ## My primary tech stack includes:
    * React
-   * .NET Web API 8+
+   * .NET Web API
+   * WPF
 
 <!--
 **qingyanyang/qingyanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
