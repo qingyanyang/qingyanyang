@@ -1,9 +1,7 @@
 ## Hi there, I'm Qingyan (Chelsea) Yang👋 
   
 ## My primary tech stack includes:
-   * React
-   * .NET Web API
-   * WPF
+   * .NET
 
 <!--
 **qingyanyang/qingyanyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
